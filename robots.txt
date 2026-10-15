@@ -1,0 +1,5 @@
+# Versione dimostrativa: le pagine sono marcate "noindex" tramite meta robots.
+# Il crawling resta consentito perché i motori di ricerca possano leggere la direttiva noindex.
+# Nessuna sitemap: la demo non deve essere indicizzata come sito definitivo.
+User-agent: *
+Allow: /
